@@ -8,7 +8,6 @@ import {
   Space,
   StyledArticle,
 } from "../components/StyledComponents";
-import frontendpath from "../img/frontendpath.webp";
 import { Articles } from "./ArticlePageFiles.js/ArticlesAndLinks";
 
 export const ArticlePage = () => {

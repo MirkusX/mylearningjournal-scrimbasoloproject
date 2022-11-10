@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import frontendpath from "../img/frontendpath.webp";
+import frontendpath from "../img/frontendpath.avif";
 import { BsFillChatFill } from "react-icons/bs";
 
 export const NavDiv = styled.div`

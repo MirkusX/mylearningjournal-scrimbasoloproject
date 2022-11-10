@@ -1,10 +1,10 @@
-import cavewomansmash from "../../img/cavewomansmash.jpg";
-import lightbulb from "../../img/lightbulb.jpg";
-import beginagain from "../../img/beginagain.jpg";
-import beach from "../../img/beach.jpg";
-import screen from "../../img/screen.jpg";
-import laptop from "../../img/laptop.jpg";
-import frontendpath from "../../img/frontendpath.webp";
+import cavewomansmash from "../../img/cavewomansmash.avif";
+import lightbulb from "../../img/lightbulb.avif";
+import beginagain from "../../img/beginagain.avif";
+import beach from "../../img/beach.avif";
+import screen from "../../img/screen.avif";
+import laptop from "../../img/laptop.avif";
+import frontendpath from "../../img/frontendpath.avif";
 
 export const linksList = [
   { title: "Make the most out of cookie dough", date: "21.09.2021" },

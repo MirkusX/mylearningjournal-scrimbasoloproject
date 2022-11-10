@@ -6,7 +6,6 @@ import {
   ArticleListSection,
   StyledLink,
 } from "./StyledComponents";
-import cavewomansmash from "../img/cavewomansmash.jpg";
 import { Link } from "react-router-dom";
 import { Articles } from "../pages/ArticlePageFiles.js/ArticlesAndLinks";
 

@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 import frontendpath from "../img/frontendpath.avif";
 import { BsFillChatFill } from "react-icons/bs";
-
+//Stylings
 export const NavDiv = styled.div`
   display: flex;
   justify-content: space-between;

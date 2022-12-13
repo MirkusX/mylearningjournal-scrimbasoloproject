@@ -1,11 +1,8 @@
-import { Link } from "react-router-dom";
 import { Articles } from "../pages/ArticlePageFiles.js/ArticlesAndLinks";
 import {
-  FeaturedArticleDiv,
   FeaturedArticleH1,
   FeaturedArticleP,
   FeaturedArticleSection,
-  HiddenValleyImg,
   StyledLink,
 } from "./StyledComponents";
 

@@ -1,17 +1,16 @@
 import { linksList } from "../pages/ArticlePageFiles.js/ArticlesAndLinks";
-import { ArticleBox } from "./ArticleBox";
 import {
   ArticleDiv,
   ArticleDivImg,
   ArticleListSection,
   StyledLink,
 } from "./StyledComponents";
-import { Link } from "react-router-dom";
 import { Articles } from "../pages/ArticlePageFiles.js/ArticlesAndLinks";
 
 export const ArticleList = () => {
   return (
     <ArticleListSection>
+      {/* Component for displaying article links */}
       {linksList.map((item, index) => {
         return (
           <StyledLink to={`/articles/${item.title}`} key={index}>

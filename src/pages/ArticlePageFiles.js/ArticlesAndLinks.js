@@ -5,7 +5,7 @@ import beach from "../../img/beach.avif";
 import screen from "../../img/screen.avif";
 import laptop from "../../img/laptop.avif";
 import frontendpath from "../../img/frontendpath.avif";
-
+//Link list array
 export const linksList = [
   { title: "Make the most out of cookie dough", date: "21.09.2021" },
   { title: "You might think I'm not all there", date: "12.08.2021" },
@@ -14,7 +14,7 @@ export const linksList = [
   { title: "How I got my groove back", date: "12.09.2012" },
   { title: "I have a surprise, I'm not human", date: "01.02.2010" },
 ];
-
+//Article text consts
 export const Articles = {
   "Make the most out of cookie dough": {
     date: "21.09.2021",

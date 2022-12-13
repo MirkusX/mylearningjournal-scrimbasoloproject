@@ -1,10 +1,7 @@
 import { useParams } from "react-router-dom";
-import { ArticleBox } from "../components/ArticleBox";
 import { ArticleList } from "../components/ArticleList";
-import { SmallArticleList } from "../components/SmallArticleList";
 import {
   ArticleImg,
-  ArticleListSection,
   Space,
   StyledArticle,
 } from "../components/StyledComponents";

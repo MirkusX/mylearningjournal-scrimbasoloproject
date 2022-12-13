@@ -1,7 +1,5 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
-import { ArticleList } from "./components/ArticleList";
-import { FeaturedArticle } from "./components/FeaturedArticle";
 import { Footer } from "./components/Footer";
 import { NavBar } from "./components/NavBar";
 import { AboutPage } from "./pages/AboutPage";

@@ -100,11 +100,17 @@ export const FlexDiv = styled.div`
   width: 80%;
   margin: 0 auto;
   text-align: left;
+  @media (max-width: 811px) {
+    flex-direction: column;
+  }
 `;
 
 export const AboutImg = styled.img`
   border-radius: 50%;
   width: 100%;
+  @media (max-width: 811px) {
+    width: 50%;
+  }
 `;
 
 export const Space = styled.div`

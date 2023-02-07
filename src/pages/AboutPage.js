@@ -1,5 +1,4 @@
 import { ArticleList } from "../components/ArticleList";
-import { SmallArticleList } from "../components/SmallArticleList";
 import {
   AboutImg,
   FlexDiv,

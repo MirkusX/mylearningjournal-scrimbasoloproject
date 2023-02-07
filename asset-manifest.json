@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mylearningjournal-scrimbasoloproject/static/css/main.073c9b0a.css",
-    "main.js": "/mylearningjournal-scrimbasoloproject/static/js/main.058318d2.js",
+    "main.js": "/mylearningjournal-scrimbasoloproject/static/js/main.aa1dd2a9.js",
     "static/js/787.60235f71.chunk.js": "/mylearningjournal-scrimbasoloproject/static/js/787.60235f71.chunk.js",
     "static/media/beach.avif": "/mylearningjournal-scrimbasoloproject/static/media/beach.bf901dc968a63ed4e3ed.avif",
     "static/media/laptop.avif": "/mylearningjournal-scrimbasoloproject/static/media/laptop.a56f0598b10367fe6e87.avif",
@@ -12,11 +12,11 @@
     "static/media/lightbulb.avif": "/mylearningjournal-scrimbasoloproject/static/media/lightbulb.8fad67559b183eca49e2.avif",
     "index.html": "/mylearningjournal-scrimbasoloproject/index.html",
     "main.073c9b0a.css.map": "/mylearningjournal-scrimbasoloproject/static/css/main.073c9b0a.css.map",
-    "main.058318d2.js.map": "/mylearningjournal-scrimbasoloproject/static/js/main.058318d2.js.map",
+    "main.aa1dd2a9.js.map": "/mylearningjournal-scrimbasoloproject/static/js/main.aa1dd2a9.js.map",
     "787.60235f71.chunk.js.map": "/mylearningjournal-scrimbasoloproject/static/js/787.60235f71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.058318d2.js"
+    "static/js/main.aa1dd2a9.js"
   ]
 }
